@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+AGR Geometry Nodes Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+AGR Geometry Nodes pack is designed to automate the creation of building 3D models parts
 
 .. note::
 
@@ -15,6 +9,15 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+
+.. toctree::
+   :caption: AGR Geonodes:
+
+   installation
+   window_generator
+   facade_generator
+   roof_generator
+   rail_generator
 
 .. toctree::
 
