@@ -35,5 +35,5 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 html_css_files = [
-    'css/rtd_dark.css',
+    'rtd_dark.css',
 ]
